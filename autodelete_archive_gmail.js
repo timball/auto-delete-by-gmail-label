@@ -3,7 +3,7 @@
 // script to be installed on a google account by creating and 
 //   running a new project in https://script.google.com 
 //
-// --timball@gmail.com 
+// --timball 
 // Wed Jun  3 10:55:20 EDT 2020
 
 // The name of the Gmail Label that is to be checked for purging?
